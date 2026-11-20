@@ -1,0 +1,6 @@
+{
+  "@@locale": "uz",
+  "appTitle": "Bozor",
+  "welcome": "Xush kelibsiz, {name}!",
+  "cartItems": "{count, plural, =0{Savatingiz bo'sh} other{Savatda {count} ta mahsulot}}"
+}

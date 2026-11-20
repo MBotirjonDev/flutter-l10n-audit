@@ -1,0 +1,9 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Bazaar",
+  "welcome": "С возвращением, {name}!",
+  "cartItems": "{count, plural, =0{Корзина пуста} one{{count} товар} few{{count} товара} other{{count} товаров}",
+  "checkout": "Contact us",
+  "contactUs": "Contact us",
+  "promoBanner": "Скидка 20%"
+}

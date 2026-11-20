@@ -1,0 +1,16 @@
+{
+  "name": "flutter-l10n-audit",
+  "version": "0.1.0",
+  "description": "Find untranslated, broken and hardcoded strings in a Flutter app: per-locale coverage, placeholder mismatches, broken ICU, duplicate ARB keys. Zero dependencies.",
+  "bin": { "flutter-l10n-audit": "skills/flutter-l10n-audit/scripts/l10n-audit.cjs" },
+  "scripts": {
+    "test": "node --test tests/audit.test.cjs",
+    "package:skill": "node scripts/package-skill.cjs"
+  },
+  "files": ["skills/", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["flutter", "l10n", "i18n", "arb", "localization", "gen-l10n", "intl", "agent-skill", "claude-code"],
+  "repository": { "type": "git", "url": "https://github.com/MBotirjonDev/flutter-l10n-audit.git" },
+  "author": "Botirjon (@MBotirjonDev)",
+  "license": "MIT"
+}

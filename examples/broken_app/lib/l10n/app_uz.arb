@@ -1,0 +1,11 @@
+{
+  "@@locale": "uz",
+  "appTitle": "Bazaar",
+  "welcome": "Xush kelibsiz, {ism}!",
+  "cartItems": "{count, plural, =0{Savatingiz bo'sh} other{Savatda {count} ta mahsulot}}",
+  "total": "Jami: {amount}",
+  "checkout": "Rasmiylashtirish",
+  "deliveryDate": "Yetkazib berish: {date}",
+  "outOfStock": "",
+  "checkout": "To'lov"
+}
